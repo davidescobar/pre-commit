@@ -1,0 +1,7 @@
+[package]
+name = "pre-commit"
+version = "0.1.0"
+authors = ["J. David Escobar <davidescobar1976gmail.com>"]
+
+[dependencies]
+regex = "0.1.63"
